@@ -6,8 +6,26 @@ CA-bundles
 A repository of CA bundles for testing purposes
 
 ## DOD CAs
-* Contains all recent DOD CAs up to CA-30 and DOD CA Email up to CA-30
+* DoD_PKI_Only-bundle-v4.1.pem from http://iase.disa.mil/pki-pke/Pages/tools.aspx in something other than an .EXE, and with detailed certificate information.
 
+* DoD Root CA 2
+** DOD CA-25
+** DOD CA-26
+** DOD CA-27
+** DOD CA-28
+** DOD CA-29
+** DOD CA-30
+** DOD CA-31
+** DOD CA-32
+** DOD EMAIL CA-25
+** DOD EMAIL CA-26
+** DOD EMAIL CA-27
+** DOD EMAIL CA-28
+** DOD EMAIL CA-29
+** DOD EMAIL CA-30
+** DOD EMAIL CA-31
+** DOD EMAIL CA-32
+* DoD Root CA 3
 
 ## Public CAs
 * Up to date as of 20150626 
