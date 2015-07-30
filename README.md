@@ -10,20 +10,35 @@ A repository of CA bundles for testing purposes
 
 * DoD Root CA 2
    DOD CA-25
+
    DOD CA-26
+   
    DOD CA-27
+   
    DOD CA-28
+   
    DOD CA-29
+   
    DOD CA-30
+   
    DOD CA-31
+   
    DOD CA-32
+   
    DOD EMAIL CA-25
+   
    DOD EMAIL CA-26
+   
    DOD EMAIL CA-27
+   
    DOD EMAIL CA-28
+   
    DOD EMAIL CA-29
+   
    DOD EMAIL CA-30
+   
    DOD EMAIL CA-31
+   
    DOD EMAIL CA-32
 * DoD Root CA 3
 
